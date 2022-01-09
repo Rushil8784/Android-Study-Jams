@@ -31,7 +31,7 @@ RecyclerView: A list of products queried from Firebase is efficiently displayed 
 LiveData: For loading images from a cloud store to imageviews, the LiveData Glide dependency is used. Kotlin Class and Data model are used for firestore queries.
 
 
-
+**APK file:** https://github.com/Rushil8784/Android-Study-Jams-app/tree/master/APK
 
 **Application Link & Future Scope :**
 
